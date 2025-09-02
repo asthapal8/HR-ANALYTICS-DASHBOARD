@@ -7,7 +7,7 @@ Helps HR teams identify high-risk groups and improve employee retention strategi
 This project is an *HR Analytics Dashboard* built in *Power BI* to analyze and visualize employee attrition trends.  
 It helps HR teams and management understand workforce patterns and identify areas for improvement.
 
----
+
 
  Key Insights
 - *Total Employees:* 1470  
@@ -17,7 +17,6 @@ It helps HR teams and management understand workforce patterns and identify area
 - *Average Tenure:* 1 year  
 - *Average Salary:* 6.5K  
 
----
 
  Dashboard Features
 - *Attrition by Age, Gender, Job Role, and Education Field*  
@@ -26,18 +25,18 @@ It helps HR teams and management understand workforce patterns and identify area
 - *Job Satisfaction Breakdown*  
 - *Filterable by Department, Gender, Education Field, Age Group, and Salary Slab*  
 
----
+
 
  Tools & Technologies
 - *Power BI Desktop* (Data Visualization)   
 - *DAX* for calculated measures  
 
----
+
 
  Dashboard Preview
 ![HR Analytics Dashboard](https://github.com/asthapal8/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
----
+
  Use Case
 This dashboard can help HR and management to:
 - Track employee attrition in real-time  
