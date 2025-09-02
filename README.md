@@ -35,7 +35,7 @@ It helps HR teams and management understand workforce patterns and identify area
 ---
 
  Dashboard Preview
-![HR Analytics Dashboard](./assets/hr-attrition-dashboard.png)
+![HR Analytics Dashboard](https://github.com/asthapal8/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
  Use Case
